@@ -1,0 +1,6 @@
+{
+  "name": "EDUMATE - Smart AI Education & Exam Mastery System",
+  "description": "Adaptive AI-powered education system with PDF strict grounding, monitored practice sessions, interactive quizzes, star-to-point reward gamification, 4 playable 50-level educational games, knowledge diagnostics, and visual revision flowcharts.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
